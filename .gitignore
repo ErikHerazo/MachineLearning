@@ -9,7 +9,7 @@ code/datasets/mnist/train-images-idx3-ubyte
 code/datasets/mnist/train-labels-idx1-ubyte
 
 # training data
-machinelearning-az-master/
+.machinelearning-az-master/
 
 .ipynb_checkpoints
 .DS_Store
